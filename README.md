@@ -4,7 +4,7 @@
 - 📚 I’m currently learning React;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/henrik-santos-aa1606127/);
 - ⚡ Fun fact: 
-I study WEB development but I want to create my own game, for that I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstation](https://www.artstation.com/gimmi1), (not so good but i'm trying to improve in my spare time); ❤
+I study WEB development but I also want to create my own game, for that I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstation](https://www.artstation.com/gimmi1), (not so good but i'm trying to improve in my spare time); ❤
 
 <br>
 
