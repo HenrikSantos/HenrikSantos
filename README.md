@@ -20,7 +20,8 @@ I study WEB development but I also want to create my own game, for that I'm also
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,jest,git,figma,vscode,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,blender,cpp,cs,css,figma,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,jest,js,linux,nodejs,py,react,unreal,vscode)](https://skillicons.dev)
   <br>
   
 </div> 
