@@ -10,8 +10,8 @@ I study WEB development but I also want to create my own game, for that I'm also
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenrikSantos&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikSantos&layout=compact&langs_count=10&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenrikSantos&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikSantos&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
