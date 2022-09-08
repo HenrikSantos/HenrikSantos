@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m a Full Stack Web Development;
-- 👌 I study at Trybe [Trybe](https://www.betrybe.com/)
+- 👌 I study at Trybe [Trybe](https://www.betrybe.com/);
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/henrik-santos-aa1606127/);
+- 🌱 You can see my tech stack below;
 - ⚡ Fun fact: 
 I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstation](https://www.artstation.com/gimmi1), (not so good but i'm trying to improve in my spare time); ❤
 
