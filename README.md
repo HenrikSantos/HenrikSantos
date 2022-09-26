@@ -11,7 +11,7 @@ I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstati
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenrikSantos&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenrikSantos&count_private=true&show_icons=true&theme=dark">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikSantos&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
