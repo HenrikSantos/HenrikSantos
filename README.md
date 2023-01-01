@@ -21,8 +21,8 @@ I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstati
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=blender,css,figma,git,github,html,jest,docker)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,linux,nodejs,py,mysql,react,unreal,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,js,ts,react,bootstrap,jest,docker,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,py,mysql,mongodb)](https://skillicons.dev)
   <br>
   
 </div> 
