@@ -7,18 +7,6 @@
 - ⚡ Fun fact: 
 I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstation](https://www.artstation.com/gimmi1), (not so good but i'm trying to improve in my spare time); ❤
 
-<br>
-
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenrikSantos&count_private=true&show_icons=true&theme=dark">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikSantos&layout=compact&langs_count=10&theme=dark"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
-
-<br>
-
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,js,ts,react,bootstrap,docker)](https://skillicons.dev)
@@ -34,3 +22,14 @@ I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstati
   <a href=mailto:henrik.ruan4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
 
+<br>
+
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenrikSantos&count_private=true&show_icons=true&theme=dark">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikSantos&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
+<br>
