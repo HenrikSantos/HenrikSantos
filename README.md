@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Full Stack Web Development;
+- 🔭 I’m a Full Stack Web Developer;
 - 👌 I study at Trybe [Trybe](https://www.betrybe.com/);
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/henrik-santos-aa1606127/);
 - 🌱 You can see my tech stack below, it's basically MERN with extras;
