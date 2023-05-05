@@ -9,7 +9,7 @@ Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática f
 - Arquiteturas: MSC, MVC, RESTful, TDD, DDD e SOLID;
 - Outros: Git, Docker, Swagger e Eslint;
 
-✔️ - Links:
+## ✔️ - Links:
 - 🎨 Site Portfólio: https://henriksantos.github.io/
 - 💼 Linkedin: https://www.linkedin.com/in/henrik-santos-dev/
 - ▶️ Canal no YT: https://www.youtube.com/@gimmicodando730
