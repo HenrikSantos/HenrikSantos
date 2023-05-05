@@ -10,9 +10,8 @@ Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática f
 - Outros: Git, Docker, Swagger e Eslint;
 
 ✔️ - Links:
-😽 - GitHub: https://github.com/HenrikSantos
-🎨 - Site Portfólio: https://henriksantos.github.io/
-▶️ - Canal no YT: https://www.youtube.com/@gimmicodando730
+- 🎨 Site Portfólio: https://henriksantos.github.io/
+- ▶️ Canal no YT: https://www.youtube.com/@gimmicodando730
 
 <div align="center">
   
