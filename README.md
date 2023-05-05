@@ -1,11 +1,18 @@
-### Hi there 👋
+### 👋 Olá
 
-- 🔭 I’m a Full Stack Web Developer;
-- 👌 I study at Trybe [Trybe](https://www.betrybe.com/);
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/henrik-santos-aa1606127/);
-- 🌱 You can see my tech stack below, it's basically MERN with extras;
-- ⚡ Fun fact: 
-I'm also studying 3D modeling, texturing, shaders... Take a look at my [Artstation](https://www.artstation.com/gimmi1), (not so good but i'm trying to improve in my spare time); ❤
+Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática formado no IFSP e cursei um ano de ADS, atualmente sou desenvolvedor WEB e às vezes brinco de fazer joguinhos com Unity/Unreal 🎮.
+
+💻- Minha Tech Stack:
+- Front-end: HTML, CSS, Javascript, TypeScript, React, Redux e Bootstrap;
+- Back-end: Python, Node, Express, MySql, MongoDB, Mongoose e Sequelize;
+- QA: Jest, Vitest, Mocha, Chai, Sinon e Pytest;
+- Arquiteturas: MSC, MVC, RESTful, TDD, DDD e SOLID;
+- Outros: Git, Docker, Swagger e Eslint;
+
+✔️ - Links:
+😽 - GitHub: https://github.com/HenrikSantos
+🎨 - Site Portfólio: https://henriksantos.github.io/
+▶️ - Canal no YT: https://www.youtube.com/@gimmicodando730
 
 <div align="center">
   
