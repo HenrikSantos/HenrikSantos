@@ -11,6 +11,7 @@ Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática f
 
 ✔️ - Links:
 - 🎨 Site Portfólio: https://henriksantos.github.io/
+- 💼 Linkedin: https://www.linkedin.com/in/henrik-santos-dev/
 - ▶️ Canal no YT: https://www.youtube.com/@gimmicodando730
 
 <div align="center">
