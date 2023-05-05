@@ -1,6 +1,6 @@
 ### 👋 Olá
 
-Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática formado no IFSP e cursei um ano de ADS, atualmente sou desenvolvedor WEB e às vezes brinco de fazer joguinhos com Unity/Unreal 🎮.
+Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática formado no IFSP e cursei um ano de ADS, às vezes brinco de fazer joguinhos com Unity/Unreal 🎮.
 
 💻- Minha Tech Stack:
 - Front-end: HTML, CSS, Javascript, TypeScript, React, Redux e Bootstrap;
