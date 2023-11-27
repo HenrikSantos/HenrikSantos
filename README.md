@@ -1,18 +1,30 @@
-### 👋 Olá
+👋 Olá, meu nome é Henrik, sou um desenvolvedor WEB Full Stack, já atuei como auxiliar administrativo e vendedor interno, meus passatempos são programar, jogar e ler mangás, estou em busca do meu primeiro emprego como desenvolvedor.
 
-Meu nome é Henrik, sou desenvolvedor WEB Full-Stack, técnico de informática formado no IFSP e cursei um ano de ADS, às vezes brinco de fazer joguinhos com Unity/Unreal 🎮.
+### Tech Stack:
+Linguagens: C#, Java, JavaScript, Python, TypeScript;
+### Front-end:
+ - Bibliotecas e Frameworks: Angular, Next.js, React;
+- Estado Global: Context API, Redux, Zustand;
+- Estilos: Bootstrap, CSS, Tailwind;
+### Back-end:
+- Frameworks: C# com ASP.NET Core, Java com Spring Boot, Node.js com Express, Node.js com Fastify;
+- ORM/ODM: Entity Framework, JPA, Mongoose, Sequelize;
+- Bancos de Dados: MongoDB, MySQL, PostgreSQL, SQLite, SQL Server;
+### DevOps:
+  - Plataformas: Railway e Vercel;
+### QA:
+- Testes de Unidade e Integração: Jest, JUnit, Pytest, Vitest, XUnit;
+- Testes End-to-End: Cypress;
+### Outros:
+- Diagramas com Mermaid.
+- Conteinerização: Docker;
+- Controle de Versão com Git;
+  
+### Inglês Intermediário;
 
-💻- Minha Tech Stack:
-- Front-end: HTML, CSS, Javascript, TypeScript, React, Redux e Bootstrap;
-- Back-end: Python, Node, Express, MySql, MongoDB, Mongoose e Sequelize;
-- QA: Jest, Vitest, Mocha, Chai, Sinon e Pytest;
-- Arquiteturas: MSC, MVC, RESTful, TDD, DDD e SOLID;
-- Outros: Git, Docker, Swagger e Eslint;
-
-## ✔️ - Links:
-- 🎨 Site Portfólio: https://henriksantos.github.io/
-- 💼 Linkedin: https://www.linkedin.com/in/henrik-santos-dev/
-- ▶️ Canal no YT: https://www.youtube.com/@gimmicodando730
+### Links:
+- Github: https://github.com/HenrikSantos
+- Site Pessoal: https://henriksantos.github.io/
 
 <div align="center">
   
