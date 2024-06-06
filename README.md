@@ -1,4 +1,4 @@
-👋 Olá, meu nome é Henrik, sou um desenvolvedor WEB Full Stack, já atuei como auxiliar administrativo e vendedor interno, meus passatempos são programar, jogar e ler mangás, estou em busca do meu primeiro emprego como desenvolvedor.
+👋 Olá, meu nome é Henrik, sou um desenvolvedor WEB Full Stack.
 
 ### Tech Stack:
 Linguagens: C#, Java, JavaScript, Python, TypeScript;
